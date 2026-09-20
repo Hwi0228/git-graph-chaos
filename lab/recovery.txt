@@ -1,0 +1,2 @@
+recovery=manual
+checkpoint=one

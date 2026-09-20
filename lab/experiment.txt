@@ -1,2 +1,3 @@
-experiment=A
-stage=one
+experiment=B
+stage=three
+status=unstable

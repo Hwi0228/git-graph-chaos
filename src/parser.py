@@ -1,2 +1,3 @@
 def parse(value: str) -> dict:
-    return {"value": value}
+    cleaned = value.strip()
+    return {"value": cleaned}

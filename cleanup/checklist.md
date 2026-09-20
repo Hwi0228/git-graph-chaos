@@ -1,0 +1,2 @@
+- remove stale notes
+- normalize naming
